@@ -18,6 +18,7 @@
 		7C8AB5157FF643DBBFD7CB34 /* BarlowCondensed-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3404BAC9CFB548C78C578C45 /* BarlowCondensed-Medium.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		B5ED2C7532A34C67A0E283BA /* BarlowCondensed-ExtraLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 24A2C7691ECE4ED7B0692797 /* BarlowCondensed-ExtraLight.ttf */; };
+		29DF9D26DA1E48E49BDB94F0 /* Barlow-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9FB0134157BD4CAC9FD0F537 /* Barlow-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		89C6BE57DB24E9ADA2F236DE /* Pods-Test_Project-Test_ProjectTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Test_Project-Test_ProjectTests.release.xcconfig"; path = "Target Support Files/Pods-Test_Project-Test_ProjectTests/Pods-Test_Project-Test_ProjectTests.release.xcconfig"; sourceTree = "<group>"; };
 		C5B4F23AE64C4520AE0FB441 /* Barlow-ExtraLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Barlow-ExtraLight.ttf"; path = "../src/assets/fonts/Barlow-ExtraLight.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		9FB0134157BD4CAC9FD0F537 /* Barlow-Medium.ttf */ = {isa = PBXFileReference; name = "Barlow-Medium.ttf"; path = "../src/assets/fonts/Barlow-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 				24A2C7691ECE4ED7B0692797 /* BarlowCondensed-ExtraLight.ttf */,
 				0A6C5CE3A61544DBA21A6B5A /* BarlowCondensed-Light.ttf */,
 				3404BAC9CFB548C78C578C45 /* BarlowCondensed-Medium.ttf */,
+				9FB0134157BD4CAC9FD0F537 /* Barlow-Medium.ttf */,
 			);
 			name = Resources;
 			path = "";
@@ -269,6 +272,7 @@
 				B5ED2C7532A34C67A0E283BA /* BarlowCondensed-ExtraLight.ttf in Resources */,
 				452649606B9D45038FD41BDE /* BarlowCondensed-Light.ttf in Resources */,
 				7C8AB5157FF643DBBFD7CB34 /* BarlowCondensed-Medium.ttf in Resources */,
+				29DF9D26DA1E48E49BDB94F0 /* Barlow-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
